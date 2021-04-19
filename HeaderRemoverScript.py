@@ -10,7 +10,7 @@ import sys
 
 start = time.time()
 if len(sys.argv) < 2:
-    print("Add folder name or edit the script; eg: 'python remover.py folderName' ")
+    print("Add folder name or edit the script; eg: 'python HeaderRemoverScript.py folderName' ")
     exit(0)
 else:
     var = sys.argv[1]
