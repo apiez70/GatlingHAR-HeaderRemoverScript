@@ -6,3 +6,14 @@ place your folders of scala files within the same folder/dir containing the scri
 simply add the foldername as argument when executing the script;
 
 usage:  python HeaderRemoverScript.py folderName
+
+----------------------------------------------------------------
+
+For old script
+
+usage:
+  edit the script on the "folderName" in the for loop before executing the script.
+
+command:
+  python HeaderRemoverScript.py
+
